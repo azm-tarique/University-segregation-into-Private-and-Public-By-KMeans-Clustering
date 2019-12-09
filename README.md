@@ -5,4 +5,4 @@ The Contributions
 1.  Perform Exploratory data analysis(EDA) using scatterplot.
 2.  Created stacked histogram visualization.
 3.  Created a KMeans cluster model for clustering
-4.  Generate confution Matrix and classifications report for the KMeans clustering model 
+4.  Generate confusion Matrix and classifications report for the KMeans clustering model 
